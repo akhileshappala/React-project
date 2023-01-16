@@ -1,6 +1,8 @@
-# React-project
-React project - with details concepts with code samples for the concepts 
-This is from a courseera course.
+
+# React-complete projects  
 
 
+Concept  | Commit Link/ Code Changes
+-------- | -----
+1.Basic commands to create a react applications  | 1. 
 
