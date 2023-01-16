@@ -8,8 +8,11 @@
 
 Create react application and start it using below commands
 >npm install -g create-react-app
+
 >create-react-app React-project
+
 >cd React-project
+
 >npm start
 
 
